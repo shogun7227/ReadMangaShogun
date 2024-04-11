@@ -1,2 +1,0 @@
-# ReadMangaShogun
-Hello
